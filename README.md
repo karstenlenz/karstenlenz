@@ -1,3 +1,7 @@
+<img  src="https://github.com/karstenlenz/karstenlenz/blob/master/gh_profile_illustration.png" alt="profile illustration"  width="50%" />
+
+
+
 # Hi, I'm Karsten!
 
 ## I'm a junior web developer & senior UX designer from Hamburg, Germany.
