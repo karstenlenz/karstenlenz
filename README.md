@@ -4,7 +4,7 @@
 
 # Hi, I'm Karsten!
 
-## I'm a junior web developer & senior UX designer from Hamburg, Germany.
+## I'm a web developer & senior UX designer from Hamburg, Germany.
 
 After working in UX design for many years, I started my journey to become a web developer this year. I hope to create many beautiful web apps in the future with great UX.
 
@@ -20,14 +20,16 @@ You can check it out [here.](https://github.com/karstenlenz/capstone-project)  (
 
 - HTML5
 - CSS3
-- JavaScript / ES2020
+- JavaScript / TypeScript
 - React
 - React Router
+- Vue.js 3
+- Angular
 - Node.js
 - Express.js
 
 ## Things I want to learn
-- Vue.js
 - React Spring
 - Gatsby
+- Java
 
