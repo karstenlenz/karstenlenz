@@ -4,15 +4,13 @@
 
 # Hi, I'm Karsten!
 
-## I'm a web developer & senior UX designer from Hamburg, Germany.
+## I'm a senior web developer & UX designer from Hamburg, Germany.
 
-After working in UX design for many years, I started my journey to become a web developer this year. I hope to create many beautiful web apps in the future with great UX.
+After working in UX design for many years, I have jumped head-first into web development a while ago. Now I am transforming user-centric designs into clean frontend code.
 
-After completing a web development bootcamp at neuefische, I finished my capstone project ("Digitales Gesellenstück"):
-
- "Youlity - Discover Your Personality".
+### Showcase: "Youlity - Discover Your Personality"
  
-  It's progressive web app that enables you to gain new insights into your personality based on the  state of the art therapeutic questionnaire. I partnered up with a professional therapist to get the science right. 
+This is progressive web app I designed and developed, that enables you to gain new insights into your personality based on a state of the art therapeutic questionnaire. I partnered up with a professional therapist to get the science right and created a smooth, mobile-first user experience.
 You can check it out [here.](https://github.com/karstenlenz/capstone-project)  (In German only at this point.)
 
 
@@ -22,14 +20,13 @@ You can check it out [here.](https://github.com/karstenlenz/capstone-project)  (
 - CSS3
 - JavaScript / TypeScript
 - React
-- React Router
 - Vue.js 3
 - Angular
 - Node.js
 - Express.js
+- Nest.js
 
 ## Things I want to learn
+- Svelte & SvelteKit
 - React Spring
 - Gatsby
-- Java
-
